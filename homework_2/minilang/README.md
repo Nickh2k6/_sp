@@ -23,8 +23,10 @@ minilang/
 === Fibonacci === → 0 1 1 2 3 5 8 13 21 34
 === Operators === → 13 7 30 3 1 1
 ## 使用方式
+```
 make                      # 編譯
 ./minilang tests/hello.ml  # 執行
+```
 
 # MiniLang
 
