@@ -1,4 +1,5 @@
 # 專案結構
+```
 minilang/
 ├── src/
 │   ├── lexer.c/h      - 詞彙分析器
@@ -11,6 +12,7 @@ minilang/
 ├── Makefile           - 建置系統
 ├── README.md          - 專案文件
 └── LANGUAGE_SPEC.md    - 語言語法規格
+```
 ## 語言特性
 - 強型態：編譯期型態檢查
 - 堆疊式 VM：編譯成位元組碼執行
