@@ -40,6 +40,8 @@ minilang原本的目標是教育性質的專案，但我覺得太無聊了。
 ## 習題四
 透過opencode寫了一本書，使用老師範例的skill。⟪如何實作一門簡易現代程式語言⟫
 * [習題四](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_4_book)
+* [習題四](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_4_book)
+* [習題四](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_4_book)
 
 ----
 ## 習題五
