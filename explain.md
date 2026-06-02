@@ -2,6 +2,7 @@
 ----
 ## 習題一
 * [習題一](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_1)
+
 透過AI協助完成的，讓AI解釋程式碼直到我看得懂
 https://gemini.google.com/share/6ddb7cea6d27
 詢問gemini函數呼叫機制的部分是怎麼運作的
@@ -32,6 +33,7 @@ minilang原本的目標是教育性質的專案，但我覺得太無聊了。
 ## 習題三
 透過opencode完成一個簡易的命令列
 * [習題三](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_3)
+
 使用 C 語言實作的類 bash 命令列 Shell，支援行程控制、管線、I/O 重導向、訊號處理與歷史紀錄。
 
 ----
@@ -43,12 +45,14 @@ minilang原本的目標是教育性質的專案，但我覺得太無聊了。
 ## 習題五
 透過opencode撰寫相關程式碼和範例，撰寫成一本書⟪並行程式設計入門：執行緒、同步與經典問題⟫
 * [習題五](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_5)
+
 透過閱讀這本書籍來了解裡面的程式範例以及背景知識
  
 ----
 ## 習題六
 透過opencode撰寫相關程式碼和範例，撰寫成一本書⟪Unix 行程與檔案系統呼叫入門⟫
 * [習題六](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_6)
+
 透過閱讀這本書釐清相關觀念
 
 ----
@@ -56,6 +60,7 @@ minilang原本的目標是教育性質的專案，但我覺得太無聊了。
 使用opencode完成，給我習題二設計的中文程式語言啟明 (QiMing)設計一個LSP伺服器。QiMing LSP
 專案較龐大寫了兩份skill來讓AI分很多階段完成，skill都在專案裡面。
 * [期中專案](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/midterm_project)
+
 為了讓這項專案的功能實際落地，也讓opencode設計成簡易的VS Code 擴充套件
 LSP 伺服器在既有的編譯器前端基礎上，加入精確的原始碼位置追蹤，並透過 stdin/stdout 與編輯器進行 JSON-RPC 通訊。
 * 實現了語法突顯的功能，在vscode編寫這門程式語言會根據Token型別對應，顯示不同的顏色
