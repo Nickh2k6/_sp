@@ -9,7 +9,7 @@ https://gemini.google.com/share/0e07a1ef146f
 
 ----
 
-## 習題二
+## [習題二v1](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/homework_2_v1/minilang)
 都是透過opencode完成
 
 做了兩個版本，一開始是做簡易的程式語言minilang
