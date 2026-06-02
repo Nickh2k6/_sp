@@ -1,0 +1,46 @@
+{
+  "name": "qiming-vscode",
+  "displayName": "QiMing Language Support",
+  "description": "VS Code extension for the QiMing Chinese programming language",
+  "version": "1.0.0",
+  "publisher": "qiming",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Programming Languages",
+    "Linters"
+  ],
+  "activationEvents": [
+    "onLanguage:qiming"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "languages": [
+      {
+        "id": "qiming",
+        "aliases": ["QiMing", "啟明"],
+        "extensions": [".qm"]
+      }
+    ],
+    "configurationDefaults": {
+      "[qiming]": {
+        "editor.semanticHighlighting.enabled": true
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/vscode": "^1.82.0",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "vscode-languageclient": "^9.0.1"
+  }
+}
