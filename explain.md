@@ -56,7 +56,7 @@ minilang原本的目標是教育性質的專案，但我覺得太無聊了。
 透過閱讀這本書釐清相關觀念
 
 ----
-## 習題七 期中專案
+## 習題七 期中專案 QiMing LSP
 使用opencode完成，給我習題二設計的中文程式語言啟明 (QiMing)設計一個LSP伺服器。QiMing LSP
 專案較龐大寫了兩份skill來讓AI分很多階段完成，skill都在專案裡面。
 * [期中專案](https://github.com/Nickh2k6/_sp/tree/0d34b5123c03d92ff671c5556b58def1f03d47c8/midterm_project)
